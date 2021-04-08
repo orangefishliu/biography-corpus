@@ -1,0 +1,172 @@
+/Raw Data/
+                  Name                                          Biography
+0        Adolf Bauser  Adolf Bauser (11 December 1880 in Entringen, W...
+1        Lothar Bisky  Lothar Bisky (17 August 1941 – 13 August 2013)...
+2    Heinrich Brüning  Heinrich Aloysius Maria Elisabeth Brüning (lis...
+3  Reinhard Bütikofer  Reinhard Hans Bütikofer (born 26 January 1953)...
+4      Günter Deckert  Günter Deckert (born 9 January 1940) is a far-...
+(37, 2) 
+
+/Preprocessed Data/
+            Name                                               Sent
+0  Adolf Bauser  Adolf Bauser (11 December 1880 in Entringen, W...
+1  Adolf Bauser   Bauser came to politics in the German Empire ...
+2  Adolf Bauser   However, as a response to the inflation in th...
+3  Adolf Bauser   In August 1926 this group established the Rei...
+4  Adolf Bauser   The group sought greater influence for its me...
+(2462, 2) 
+
+
+
+/ 23  birth places found/
+Lothar Bisky -> ['born in Zollbrück'] 
+
+Heinrich Brüning -> ['Born in Münster'] 
+
+Reinhard Bütikofer -> ['born in Mannheim'] 
+
+Johann Baptist Gradl -> ['in Berlin –'] 
+
+Dirk Hillbrecht -> ['born Hannover'] 
+
+Adolf Hitler -> ['born in Austria', 'in Austria –'] 
+
+Erwin Huber -> ['born in Reisbach'] 
+
+Alfred Hugenberg -> ['Born in Hanover'] 
+
+Richard Kunze -> ['in Sagan –'] 
+
+Oskar Lafontaine -> ['born in Saarlautern'] 
+
+Alfred Loritz -> ['in Munich –'] 
+
+Angela Merkel -> ['born in Hamburg'] 
+
+Angela Merkel -> ['born Angela', 'born in Danzig'] 
+
+Martin Mussgnug -> ['in Heidelberg –'] 
+
+Matthias Platzeck -> ['born in Potsdam'] 
+
+Walter Scheel -> ['born in Solingen'] 
+
+John Schehr -> ['born Martha'] 
+
+Jürgen Schmieder -> ['born Jahnishausen'] 
+
+Edmund Stoiber -> ['born in Oberaudorf'] 
+
+Friedrich Thielen -> ['in Bremen –'] 
+
+Friedrich Thielen -> ['born in Bremen'] 
+
+Udo Voigt -> ['born in Viersen'] 
+
+Alice Weidel -> ['born in Gütersloh'] 
+
+
+
+/ 19  birth years found/
+Adolf Bauser -> ['(11 December 1880'] 
+
+Lothar Bisky -> ['(17 August 1941'] 
+
+Heinrich Brüning -> ['(26 November 1885'] 
+
+Reinhard Bütikofer -> ['(born 26 January 1953'] 
+
+Gerhard Frey (politician) -> ['(18 February 1933'] 
+
+Alexander Gauland -> ['(born 20 February 1941'] 
+
+Johann Baptist Gradl -> ['(25 March 1904'] 
+
+Erwin Huber -> ['(born 26 July 1946'] 
+
+Alfred Hugenberg -> ['(19 June 1865'] 
+
+Christof Leng -> ['(born 14 September 1975'] 
+
+Alfred Loritz -> ['(born 24 April 1902'] 
+
+Bernd Lucke -> ['(born 19 August 1962'] 
+
+Martin Mussgnug -> ['(22 February 1936'] 
+
+Sebastian Nerz -> ['(born 13 July 1983'] 
+
+Matthias Platzeck -> ['(born 29 December 1953'] 
+
+Rolf Schlierer -> ['(born 21 February 1955'] 
+
+Franz Schönhuber -> ['(10 January 1923'] 
+
+Edmund Stoiber -> ['(born 28 September 1941'] 
+
+Friedrich Thielen -> ['(25 September 1916'] 
+
+
+
+/ 9  death places found/
+Adolf Bauser -> ['1948 in Stuttgart)'] 
+
+Lothar Bisky -> ['died in Leipzig'] 
+
+Johann Baptist Gradl -> ['1988 in Berlin)'] 
+
+Adolf Hitler -> ['died in June'] 
+
+Alfred Hugenberg -> ['died in Kükenbruch'] 
+
+Alfred Loritz -> ['1979 in Vienna)'] 
+
+Martin Mussgnug -> ['1997 in Singen)'] 
+
+Rolf Schlierer -> ['1955 in Stuttgart)'] 
+
+Friedrich Thielen -> ['1993 in Bremen)'] 
+
+
+
+/ 15  death years found/
+Adolf Bauser -> ['– 16 November 1948 in'] 
+
+Lothar Bisky -> ['– 13 August 2013)'] 
+
+Heinrich Brüning -> ['– 30 March 1970)'] 
+
+Gerhard Frey (politician) -> ['– 19 February 2013)'] 
+
+Johann Baptist Gradl -> ['– 2 July 1988 in'] 
+
+Albrecht von Graefe (politician) -> ['– 18 April 1933)'] 
+
+Adolf Hitler -> ['– 30 April 1945)'] 
+
+Alfred Hugenberg -> ['– 12 March 1951)'] 
+
+Richard Kunze -> ['– May 1945)'] 
+
+Alfred Loritz -> ['– died 14 April 1979 in'] 
+
+Martin Mussgnug -> ['– 2 February 1997 in'] 
+
+Walter Scheel -> ['– 24 August 2016)'] 
+
+Franz Schönhuber -> ['– 27 November 2005)'] 
+
+Adolf von Thadden -> ['– 16 July 1996)'] 
+
+Friedrich Thielen -> ['– 11 June 1993 in'] 
+
+
+
+/Result Summary/
+                Name       Place_of_Birth        Year_of_Birth        Place_of_Death            Year_of_Death
+0      Adolf Bauser                   []  [(11 December 1880]  [1948 in Stuttgart)]  [– 16 November 1948 in]
+1      Lothar Bisky                   []    [(17 August 1941]                    []      [– 13 August 2013)]
+2      Lothar Bisky  [born in Zollbrück]                   []                    []                       []
+3      Lothar Bisky                   []                   []     [died in Leipzig]                       []
+4  Heinrich Brüning                   []  [(26 November 1885]                    []       [– 30 March 1970)]
+(37, 4) 
